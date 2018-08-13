@@ -1,0 +1,17 @@
+BODY			    {font-family:Verdana,Arial,Tahoma,sans-serif; color:#FFFFFF; background:#606060}
+
+A			        {font-size:10px; font-weight:bold}
+A:link			    {text-decoration:underline; color:#FFE490}
+A:visited		    {text-decoration:underline; color:#EABE29}
+A:hover			    {text-decoration:underline; color:#FFFFFF}
+A:active		    {text-decoration:underline; color:#C0C0C0}
+
+TD.Head 	    	{font-size:12px; font-weight:bold; color:#FFC080; text-align:left; background-color:#707070; font-style:italic}
+TD.Text			    {font-size:10px; color:#F8F8F8; text-align:justify}
+TD.MemberName	    {font-size:10px; font-weight:bold; color:#D0D0D0; text-align:justify}
+TD.MemberWork	    {font-size:10px; font-weight:bold; color:#D0D0D0; text-align:justify}
+TD.ReleaseName	    {font-size:10px; font-weight:bold; color:#D0D0D0; text-align:justify}
+TD.ReleaseDate	    {font-size:10px; font-weight:bold; color:#D0D0D0; text-align:justify}
+TD.ReleaseType	    {font-size:10px; font-weight:bold; color:#D0D0D0; text-align:justify}
+
+SPAN.Info           {font-size:10px; font-weight:bold; color:#D0D0D0}
